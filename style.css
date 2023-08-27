@@ -1,0 +1,120 @@
+.material a {
+    float: right;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 20px;
+    }
+    
+    .material a:hover {
+    background-color: brown;
+    color: rgb(113, 197, 148);
+    }
+    
+    .icon p {
+    font-size: 15px;
+    font-weight: bolder;
+    float: left;
+    color: antiquewhite;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    padding-left: 100px;}
+    
+    .short {
+    font-size: 12px;
+    color: blue;
+    text-align: justify;
+    float: left;
+    text-transform: lowercase;
+}
+    
+    .heading {
+    background-image: url(./space.jpg);
+    
+    background-size: cover;
+    width: 1285px;
+    height: 400px;
+    color: rgba(161, 161, 161, 0.87);
+    padding-left: 40px;
+    padding-top: 60px;
+    font-size: 35px;
+    text-align: left;
+    }
+    
+    .heading a{
+    background-color: rgb(134, 139, 103);
+    color: rgb(10, 18, 54);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 20px;    
+    font-weight: bolder;
+}
+    
+    .types {
+        display: flex;
+    }
+    
+    .one {
+    margin-top: 50px;
+    text-align: left;
+    padding-left: 200px;
+    }
+    
+    .two {
+    margin-top: 50px;
+    padding-left: 50px;
+    text-align: left;
+}
+    
+    h3 {
+    text-align: left;
+    }
+
+    .three h2 {
+text-align: left;
+font-weight: bolder;
+padding-left: 40px;
+padding-top: 30px;
+}
+
+.three p {
+text-align: left;
+padding-left: 40px;
+padding-top: 0px;
+
+}
+
+.four {
+border-style: outset;
+padding-left: 0px;
+margin-top: 50px;
+border-color: #bbbbaa #111111 #ee3e80 #0088dd;
+width: 240px;
+border: 2px solid #0088dd;
+margin-left: 30px;
+}
+
+.five {
+    color: rgb(54, 17, 17);
+    text-align: left;
+    padding-left: 35px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.five a:hover {
+    background-color: rgb(216, 146, 146);
+    color: rgb(8, 23, 107);
+    }
+
+.box {
+    -moz-box-shadow: 5px 5px 5px #777777; 
+    -webkit-box-shadow: 5px 5px 5px #777777; 
+    box-shadow: 5px 5px 5px #777777;
+}
+
+
+
